@@ -2,20 +2,20 @@
 
 This is a frontend-based Hotel Management System designed to showcase a user-friendly interface for managing hotel operations like room reservations, customer details, and more. The project focuses on delivering an elegant design and seamless user experience.
 
-Features:
+# Preview
 
 Homepage: Displays an overview of hotel services and features.
 Room Listing: View available rooms with details such as pricing and amenities.
 
 Responsive Design: Optimized for desktop and mobile devices.
 
-Technology Stack:
+# Technology Stack:
 
 HTML: Structuring content and layout.
 CSS/SCSS: Styling the interface with a clean and modern look.
 JavaScript: Adding interactive elements and form validation.
 
-How to Use:
+# How to Use:
 
 01.Clone the repository:
 bash
@@ -30,13 +30,18 @@ Showcasing a hotel management interface for educational or portfolio purposes.
 A foundation for developers to integrate with backend APIs or databases.
 Learning or practicing frontend development skills.
 
-Future Enhancements:
 
-Integration with backend services for dynamic data.
-Online booking and customer account management.
-Enhanced animations and transitions for improved UX.
+# Screenshots
+![Homepage](https://github.com/user-attachments/assets/0dbe4c5b-7040-49ff-a23c-78fa6e10380b)
 
-##Screenshots
-![Homepage](https://github.com/ChetanPatwardhan/Hotel-Management-System/tree/3ab93451a95a03cb4461f6b7da1fd7733ccdbde7/Screenshots%20Of%20Project) 
+![Top_pick_Hotel](https://github.com/user-attachments/assets/55daa159-aaa4-4ec6-a390-6b7c5173e874)
 
+![Feedbacks](https://github.com/user-attachments/assets/8c4ef2f5-6003-4a4f-977e-7ccfd914232f)
 
+![Choose_Hotels](https://github.com/user-attachments/assets/4e12ad01-1698-4622-a988-702d0ee36668)
+
+![choose hotel2](https://github.com/user-attachments/assets/6749eed9-ef74-44ca-9b0c-ef4baa2d6c66)
+![services2](https://github.com/user-attachments/assets/683c4b8f-f42e-4e85-b81e-28e50c6b9420)
+![Services](https://github.com/user-attachments/assets/6fd91b2b-efb0-4d78-a714-8e02ba5257e9)
+![blog2](https://github.com/user-attachments/assets/823a102c-c43f-48a4-a68a-2bd3b1d383e9)
+![contact](https://github.com/user-attachments/assets/612622bf-b895-492c-ac1d-2ce7ace8e8c5)
