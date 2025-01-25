@@ -37,6 +37,6 @@ Online booking and customer account management.
 Enhanced animations and transitions for improved UX.
 
 ##Screenshots
-![Homepage](./screenshots/homepage.png) 
-![Homepage](./Screenshots_of_Project/Homepage.png)
+![Homepage](https://github.com/ChetanPatwardhan/Hotel-Management-System/tree/3ab93451a95a03cb4461f6b7da1fd7733ccdbde7/Screenshots%20Of%20Project) 
+
 
